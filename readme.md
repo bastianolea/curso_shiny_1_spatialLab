@@ -1,4 +1,4 @@
-![](logo_spatialLab.png)
+[![](logo_spatialLab.png)](https://spatiallab.cl)
 
 # Desarrollo de aplicaciones web interactivas con R y Shiny (versión 1)
 
@@ -10,4 +10,6 @@ Docente: _Bastián Olea Herrera._ baolea@uc.cl
 
 Repositorio con los materiales y las clases de la versión 1 del curso, impartida en [SpatialLab.](http://spatiallab.cl)
 
-Para más información de próximos cursos: [https://bastianolea.rbind.io/clases/](https://bastianolea.rbind.io/clases/)
+En [SpatialLab encontrarás muchos más cursos](https://spatiallab.cl/cursos-1) sobre R y análisis de datos impartidos por profesionales de diversas áreas.
+
+Para más información sobre mis próximos cursos y clases particulares: [https://bastianolea.rbind.io/clases/](https://bastianolea.rbind.io/clases/)
