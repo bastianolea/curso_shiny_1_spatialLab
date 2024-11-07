@@ -1,3 +1,4 @@
+![](logo_spatialLab.png)
 
 # Desarrollo de aplicaciones web interactivas con R y Shiny (versión 1)
 
